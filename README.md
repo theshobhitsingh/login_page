@@ -1,3 +1,3 @@
-This is a Log-in / Sign-up page.
+This is a dynamic and interactive Login/Sign-in page.
 <br>
-Tech used: HTML,CSS.
+Tech used: HTML5 and CSS3.
