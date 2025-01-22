@@ -56,5 +56,5 @@ To contribute to this project, follow these steps:
 3.Make Your Changes
 4.Submit a Pull Request
 
-## Author
-Shobhit Singh
+## Developer
+***Shobhit Singh***
